@@ -1,0 +1,10 @@
+/Users/sulochanajayaprakash/Desktop/rustproject1/Yahoo1/target/debug/deps/libidna-c4bf71ab267542db.rmeta: /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/lib.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/punycode.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46_mapping_table.rs
+
+/Users/sulochanajayaprakash/Desktop/rustproject1/Yahoo1/target/debug/deps/libidna-c4bf71ab267542db.rlib: /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/lib.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/punycode.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46_mapping_table.rs
+
+/Users/sulochanajayaprakash/Desktop/rustproject1/Yahoo1/target/debug/deps/idna-c4bf71ab267542db.d: /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/lib.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/punycode.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46_mapping_table.rs
+
+/Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/lib.rs:
+/Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/punycode.rs:
+/Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46.rs:
+/Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46_mapping_table.rs:

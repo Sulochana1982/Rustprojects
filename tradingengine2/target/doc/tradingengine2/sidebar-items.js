@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["camarilla_pivot","read_write","write_file"]};

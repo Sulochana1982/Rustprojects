@@ -1,0 +1,19 @@
+[user]
+	name = sulochana
+	mail = sulochanajayaprakash@gmail.com
+	email = sulochanajayaprakash@gmail.com
+[color]
+	ui = auto
+[core]
+	editor = code --wait
+	autocrlf = input
+[credential]
+	helper = store --file ~/.git-credentials
+[credential "https://github.com"]
+	username = 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
+
+
+     https://github.com/settings/apps
+
+    token =
+    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

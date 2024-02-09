@@ -1,0 +1,10 @@
+/Users/sulochanajayaprakash/Desktop/rustproject1/yahoo2/target/debug/deps/libsqlx-ed1e48be7208b6fa.rmeta: /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.6.3/src/lib.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.6.3/src/macros/mod.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.6.3/src/ty_match.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.6.3/src/macros/test.md
+
+/Users/sulochanajayaprakash/Desktop/rustproject1/yahoo2/target/debug/deps/libsqlx-ed1e48be7208b6fa.rlib: /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.6.3/src/lib.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.6.3/src/macros/mod.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.6.3/src/ty_match.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.6.3/src/macros/test.md
+
+/Users/sulochanajayaprakash/Desktop/rustproject1/yahoo2/target/debug/deps/sqlx-ed1e48be7208b6fa.d: /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.6.3/src/lib.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.6.3/src/macros/mod.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.6.3/src/ty_match.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.6.3/src/macros/test.md
+
+/Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.6.3/src/lib.rs:
+/Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.6.3/src/macros/mod.rs:
+/Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.6.3/src/ty_match.rs:
+/Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.6.3/src/macros/test.md:

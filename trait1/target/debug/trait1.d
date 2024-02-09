@@ -1,0 +1,1 @@
+/Users/sulochanajayaprakash/Desktop/rustproject1/trait1/target/debug/trait1: /Users/sulochanajayaprakash/Desktop/rustproject1/trait1/src/lib.rs /Users/sulochanajayaprakash/Desktop/rustproject1/trait1/src/main.rs

@@ -1,0 +1,10 @@
+/Users/sulochanajayaprakash/Desktop/rustproject1/webprogramming1/target/debug/deps/libiovec-18e8c710c167e469.rmeta: /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/lib.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/mod.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/unix.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/unix.rs
+
+/Users/sulochanajayaprakash/Desktop/rustproject1/webprogramming1/target/debug/deps/libiovec-18e8c710c167e469.rlib: /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/lib.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/mod.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/unix.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/unix.rs
+
+/Users/sulochanajayaprakash/Desktop/rustproject1/webprogramming1/target/debug/deps/iovec-18e8c710c167e469.d: /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/lib.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/mod.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/unix.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/unix.rs
+
+/Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/lib.rs:
+/Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/mod.rs:
+/Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/unix.rs:
+/Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/unix.rs:

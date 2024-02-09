@@ -1,0 +1,1 @@
+/Users/sulochanajayaprakash/Desktop/rustproject1/communicator1/target/debug/communicator1: /Users/sulochanajayaprakash/Desktop/rustproject1/communicator1/src/lib.rs /Users/sulochanajayaprakash/Desktop/rustproject1/communicator1/src/main.rs

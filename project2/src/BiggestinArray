@@ -1,0 +1,42 @@
+use std::io;
+
+fn main()
+{
+    let mut first = std::i32::MIN;
+    let mut second = std::i32::MIN;
+    let mut third = std::i32::MIN;
+    let a = [20, 6, 18, 30, 7, 67, 5, 88, 65, 8];
+    let n = a.len();
+    println!("{:?}", a);
+    println!("length : {}", n);
+    for i in a
+    {
+        if (i<first)
+        {
+            third=second;
+            second=first;
+            first=i;
+
+        }
+        else if(i<second && i != first)
+        {
+            third = second;
+            second = i;
+        }
+        else if(i<third && i !=second && i != first)
+        {
+            third = i;
+        }
+        println!("{first}  {second}  {third}");
+    }
+    println!("{first}  {second}  {third}");
+
+
+
+}
+
+
+
+
+
+

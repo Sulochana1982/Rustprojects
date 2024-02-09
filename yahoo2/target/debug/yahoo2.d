@@ -1,0 +1,1 @@
+/Users/sulochanajayaprakash/Desktop/rustproject1/yahoo2/target/debug/yahoo2: /Users/sulochanajayaprakash/Desktop/rustproject1/yahoo2/build.rs /Users/sulochanajayaprakash/Desktop/rustproject1/yahoo2/migrations /Users/sulochanajayaprakash/Desktop/rustproject1/yahoo2/src/main.rs

@@ -1,0 +1,10 @@
+/Users/sulochanajayaprakash/Desktop/rustproject1/Yahoo1/target/debug/deps/libiovec-346d99695f4329b4.rmeta: /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/lib.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/mod.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/unix.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/unix.rs
+
+/Users/sulochanajayaprakash/Desktop/rustproject1/Yahoo1/target/debug/deps/libiovec-346d99695f4329b4.rlib: /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/lib.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/mod.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/unix.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/unix.rs
+
+/Users/sulochanajayaprakash/Desktop/rustproject1/Yahoo1/target/debug/deps/iovec-346d99695f4329b4.d: /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/lib.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/mod.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/unix.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/unix.rs
+
+/Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/lib.rs:
+/Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/mod.rs:
+/Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/unix.rs:
+/Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/unix.rs:

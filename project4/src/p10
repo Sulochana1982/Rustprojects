@@ -1,0 +1,19 @@
+#[derive(Debug)]
+struct User{
+   active: bool,
+   username:String,
+   email:String,
+   sign_in_count:u64,
+}
+
+fn main()
+{
+   let u1 = User{
+       active: true,
+       username: String::from("hello"),
+       email: String :: from ("hello@gmail.com"),
+       sign_in_count:7
+   };
+   dbg!(&u1);
+   
+}

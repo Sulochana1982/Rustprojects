@@ -1,0 +1,1 @@
+/Users/sulochanajayaprakash/Desktop/rustproject1/project3/target/debug/project3: /Users/sulochanajayaprakash/Desktop/rustproject1/project3/src/lib.rs /Users/sulochanajayaprakash/Desktop/rustproject1/project3/src/main.rs

@@ -1,0 +1,55 @@
+//use std::collections::HashMap;
+
+// fn main()
+// {
+//     let mut scores = HashMap::new();
+
+// scores.insert(String::from("Blue"), 10);
+// scores.insert(String::from("red"), 20);
+
+// println!("{:?}", scores);
+
+// }
+
+
+// use std::collections::HashMap;
+// fn main()
+// {
+// let fieldname = String::from("Color");
+// let fieldvalue = String::from("Blue");
+// let mut map = HashMap::new();
+// map.insert(fieldname, fieldvalue);
+// println!("{:?}", map);
+
+
+// }
+
+
+// use std::collections::HashMap;
+// fn main()
+// {
+//     let mut scores = HashMap::new();
+//     scores.insert(String::from("Blue"), 10);
+
+//     scores.entry(String::from("Yellow")).or_insert(50);
+//     scores.entry(String::from("Blue")).or_insert(50);
+
+//     println!("{:?}", scores);
+
+// }
+
+
+use std::collections::HashMap;
+fn main()
+{
+let text = "hello world";
+let mut map = HashMap::new();
+for word in text.split_whitespace()
+{
+    let count = map.entry(word).or_insert(0);
+    *count += 1;
+
+}
+println!("{:?}", map);
+
+}

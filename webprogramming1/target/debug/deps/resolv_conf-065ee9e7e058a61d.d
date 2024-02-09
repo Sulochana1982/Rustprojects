@@ -1,0 +1,10 @@
+/Users/sulochanajayaprakash/Desktop/rustproject1/webprogramming1/target/debug/deps/libresolv_conf-065ee9e7e058a61d.rmeta: /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.6.3/src/lib.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.6.3/src/grammar.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.6.3/src/ip.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.6.3/src/config.rs
+
+/Users/sulochanajayaprakash/Desktop/rustproject1/webprogramming1/target/debug/deps/libresolv_conf-065ee9e7e058a61d.rlib: /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.6.3/src/lib.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.6.3/src/grammar.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.6.3/src/ip.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.6.3/src/config.rs
+
+/Users/sulochanajayaprakash/Desktop/rustproject1/webprogramming1/target/debug/deps/resolv_conf-065ee9e7e058a61d.d: /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.6.3/src/lib.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.6.3/src/grammar.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.6.3/src/ip.rs /Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.6.3/src/config.rs
+
+/Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.6.3/src/lib.rs:
+/Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.6.3/src/grammar.rs:
+/Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.6.3/src/ip.rs:
+/Users/sulochanajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.6.3/src/config.rs:
